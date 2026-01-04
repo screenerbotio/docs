@@ -2523,8 +2523,6 @@ main_menu() {
         
         # Use single banner function
         print_banner
-        echo -e "  ${DIM}https://screenerbot.io${RESET}                                            ${DIM}$(date '+%H:%M:%S')${RESET}"
-        echo ""
         
         # Option C Status - Clean Horizontal Bars
         echo -e "  ${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${RESET}"
