@@ -320,7 +320,10 @@ ScreenerBot features native on-chain decoders for price discovery:
 | 🌐 **Website** | [screenerbot.io](https://screenerbot.io) |
 | 📚 **Documentation** | [screenerbot.io/docs](https://screenerbot.io/docs) |
 | ⬇️ **Download** | [screenerbot.io/download](https://screenerbot.io/download) |
-| 💬 **Community** | [t.me/screenerbotio](https://t.me/screenerbotio) |
+| � **Telegram Channel** | [t.me/screenerbotio](https://t.me/screenerbotio) |
+| 💬 **Telegram Group** | [t.me/screenerbotio_talk](https://t.me/screenerbotio_talk) |
+| 🆘 **Telegram Support** | [t.me/screenerbotio_support](https://t.me/screenerbotio_support) |
+| 𝕏 **X (Twitter)** | [x.com/screenerbotio](https://x.com/screenerbotio) |
 
 ### Documentation Sections
 
@@ -334,6 +337,16 @@ ScreenerBot features native on-chain decoders for price discovery:
 - [DCA Guide](https://screenerbot.io/docs/trading/dca-guide) — Dollar-cost averaging
 - [Telegram Setup](https://screenerbot.io/docs/telegram) — Notification configuration
 - [Troubleshooting](https://screenerbot.io/docs/reference/troubleshooting) — Common issues & solutions
+
+---
+
+## Support
+
+Need help? We're here for you:
+
+- **Telegram Support**: [@screenerbotio_support](https://t.me/screenerbotio_support) — Direct support
+- **Telegram Group**: [t.me/screenerbotio_talk](https://t.me/screenerbotio_talk) — Community help
+- **Documentation**: [screenerbot.io/docs](https://screenerbot.io/docs) — Comprehensive guides
 
 ---
 

@@ -294,8 +294,8 @@ print_banner() {
     # Left column: Website & Docs & X
     # Right column: Telegram Channel, Group & Support
     printf "   %15s %-30s %15s %-30s\n" "Website:" "screenerbot.io" "Channel:" "t.me/screenerbotio"
-    printf "   %15s %-30s %15s %-30s\n" "Docs:" "screenerbot.io/docs" "Group:" "@screenerbotio_talk"
-    printf "   %15s %-30s %15s %-30s\n" "X:" "x.com/screenerbotio" "Support:" "@screenerbotio_support"
+    printf "   %15s %-30s %15s %-30s\n" "Docs:" "screenerbot.io/docs" "Group:" "t.me/screenerbotio_talk"
+    printf "   %15s %-30s %15s %-30s\n" "X:" "x.com/screenerbotio" "Support:" "t.me/screenerbotio_support"
     echo ""
 
     echo -e "${RESET}"
@@ -2391,8 +2391,9 @@ show_help() {
     echo "${BOLD}${CYAN}Resources:${RESET}"
     echo ""
     echo "  Documentation:      ${CYAN}https://screenerbot.io/docs${RESET}"
-    echo "  Support:            ${CYAN}https://screenerbot.io/support${RESET}"
-    echo "  Telegram:           ${CYAN}https://t.me/screenerbotio${RESET}"
+    echo "  Telegram Channel:   ${CYAN}https://t.me/screenerbotio${RESET}"
+    echo "  Telegram Group:     ${CYAN}https://t.me/screenerbotio_talk${RESET}"
+    echo "  Telegram Support:   ${CYAN}https://t.me/screenerbotio_support${RESET}"
     echo "  Twitter/X:          ${CYAN}https://x.com/screenerbotio${RESET}"
     echo ""
     
