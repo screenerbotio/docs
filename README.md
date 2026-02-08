@@ -6,6 +6,7 @@
 
 ### Professional Automated Trading for Solana DeFi
 
+[![Source Code](https://img.shields.io/badge/Source-ScreenerBot-181717?style=flat-square&logo=github)](https://github.com/screenerbotio/ScreenerBot)
 [![Website](https://img.shields.io/badge/Website-screenerbot.io-blue?style=flat-square)](https://screenerbot.io)
 [![Documentation](https://img.shields.io/badge/Docs-screenerbot.io%2Fdocs-green?style=flat-square)](https://screenerbot.io/docs)
 [![Download](https://img.shields.io/badge/Download-Latest-orange?style=flat-square)](https://screenerbot.io/download)
@@ -82,7 +83,7 @@ curl -fsSL https://screenerbot.io/install.sh | bash
 
 **Alternative installation:**
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/screenerbotio/ScreenerBot-Public/main/screenerbot.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/screenerbotio/docs/main/screenerbot.sh)
 ```
 
 ### What the Installer Does
@@ -352,13 +353,27 @@ Need help? We're here for you:
 
 ## Project Status
 
-ScreenerBot is a private project under active development. This repository contains:
+ScreenerBot is **open source** under active development.
+
+**Source code:** [github.com/screenerbotio/ScreenerBot](https://github.com/screenerbotio/ScreenerBot)
+
+This docs repository contains:
 
 - ✅ Public documentation and resources
 - ✅ VPS installation script (`screenerbot.sh`)
 - ✅ Logo and brand assets
 
-The trading engine source code is not publicly available.
+The full trading engine source code is available at [screenerbotio/ScreenerBot](https://github.com/screenerbotio/ScreenerBot).
+
+---
+
+## Support Development
+
+If ScreenerBot has been useful to you, consider supporting development with a SOL donation:
+
+**SOL Address:** `D6g8i5HkpesqiYF6YVCL93QD3py5gYwYU9ZrcRfBSayN`
+
+[![Solscan](https://img.shields.io/badge/View_on-Solscan-9945FF?style=flat-square&logo=solana)](https://solscan.io/account/D6g8i5HkpesqiYF6YVCL93QD3py5gYwYU9ZrcRfBSayN)
 
 ---
 
