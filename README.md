@@ -83,7 +83,7 @@ curl -fsSL https://screenerbot.io/install.sh | bash
 
 **Alternative installation:**
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/screenerbotio/docs/main/screenerbot.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/screenerbotio/ScreenerBot/main/screenerbot.sh)
 ```
 
 ### What the Installer Does
@@ -360,8 +360,9 @@ ScreenerBot is **open source** under active development.
 This docs repository contains:
 
 - ✅ Public documentation and resources
-- ✅ VPS installation script (`screenerbot.sh`)
-- ✅ Logo and brand assets
+- ✅ Screenshots and brand assets
+
+The VPS installation script (`screenerbot.sh`) is in the [main source repository](https://github.com/screenerbotio/ScreenerBot).
 
 The full trading engine source code is available at [screenerbotio/ScreenerBot](https://github.com/screenerbotio/ScreenerBot).
 
